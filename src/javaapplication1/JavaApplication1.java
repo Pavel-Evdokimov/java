@@ -26,6 +26,13 @@ public class JavaApplication1 {
         b = b / 0;
         System.out.println("b = " + b);
         
+        int m[] = new int[10];
+        int []m2 = new int[10];
+        
+        int [] aa,bb;
+        
+        // Пузырьковая сортировка
+        // Конвертировать номер дня недели в число
     }
     
 }
